@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "MMMMXIV",
+    "Name": "DSR Meteor Pilot (Validation)",
+    "InternalName": "DSRMeteorPilot",
+    "AssemblyVersion": "0.2.5.0",
+    "Description": "絶竜詩P2のメテオ経路をイベントに同期して制御する検証版です。vnavmeshが必要です。初回担当塔への移動は手動です。実機での成功は未保証です。",
+    "Punchline": "Event-driven meteor pilot; live validation pending",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "dsr",
+      "meteor",
+      "prototype"
+    ],
+    "RepoUrl": "https://github.com/MMMMXIV/DSRMeteorPilot",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.5.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.5.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.5.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1795201494
+  }
+]
