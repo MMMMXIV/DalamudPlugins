@@ -1,25 +1,26 @@
 [
   {
     "Author": "MMMMXIV",
-    "Name": "DSR Meteor Pilot (Validation)",
+    "Name": "DSR Meteor Pilot",
     "InternalName": "DSRMeteorPilot",
-    "AssemblyVersion": "0.2.6.0",
-    "Description": "絶竜詩P2のメテオ経路をイベントに同期して制御する検証版です。vnavmeshが必要です。初回担当塔への移動は手動です。",
-    "Punchline": "Event-driven meteor pilot; live validation pending",
+    "AssemblyVersion": "0.2.7.0",
+    "Description": "絶竜詩P2のメテオ経路をイベントに同期して制御するプラグインです。vnavmeshが必要です。初回担当塔への移動は手動です。",
+    "Punchline": "絶竜詩P2のメテオ移動をサポート",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
       "dsr",
       "meteor",
-      "prototype"
+      "movement"
     ],
     "RepoUrl": "https://github.com/MMMMXIV/DSRMeteorPilot",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.6.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.6.0.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.6.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.7.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.7.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/dist/DSRMeteorPilot-0.2.7.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1795251758,
-    "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/images/icon.png"
+    "LastUpdate": 1795268154,
+    "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/images/icon-v1.png",
+    "Changelog": "設定画面を整理し、メテオの進行状況を追加。説明文とプラグイン名を統一しました。"
   }
 ]
