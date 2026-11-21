@@ -18,9 +18,9 @@ https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/repo.json
 
 | プラグイン | バージョン | ソース・説明 |
 | --- | --- | --- |
-| DSR Meteor Pilot (Validation) | 0.2.5.0 | [DSRMeteorPilot](https://github.com/MMMMXIV/DSRMeteorPilot) |
+| DSR Meteor Pilot (Validation) | 0.2.6.0 | [DSRMeteorPilot](https://github.com/MMMMXIV/DSRMeteorPilot) |
 
-DSR Meteor Pilotは検証版です。移動にはvnavmeshが別途必要です。実戦での成功を保証するものではありません。詳しい制限とビルド手順は各プラグインのソースリポジトリを参照してください。
+DSR Meteor Pilotは検証版です。移動にはvnavmeshが別途必要です。詳しい制限とビルド手順は各プラグインのソースリポジトリを参照してください。
 
 ## 配布の管理
 
