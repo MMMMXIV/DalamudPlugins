@@ -19,8 +19,9 @@ https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/repo.json
 | プラグイン | バージョン | ソース・説明 |
 | --- | --- | --- |
 | DSR Meteor Pilot | 0.2.7.0 | [DSRMeteorPilot](https://github.com/MMMMXIV/DSRMeteorPilot) |
+| MahjongXIV（日本語対応版） | 0.3.0.0 | [plugins/MahjongXIV](plugins/MahjongXIV) |
 
-移動にはvnavmeshが別途必要です。詳しい制限とビルド手順は各プラグインのソースリポジトリを参照してください。
+DSR Meteor Pilotの移動にはvnavmeshが別途必要です。MahjongXIVは元の配布元と同じInternalNameのため、kuchris氏のリポジトリと同時に有効化しないでください。詳しい制限とビルド手順は各プラグインのソースリポジトリを参照してください。
 
 ## 配布の管理
 

@@ -22,5 +22,35 @@
     "LastUpdate": 1795268154,
     "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/images/icon-v1.png",
     "Changelog": "設定画面を整理し、メテオの進行状況を追加。説明文とプラグイン名を統一しました。"
+  },
+  {
+    "Author": "kuchris (日本語対応: MMMMXIV)",
+    "Name": "MahjongXIV",
+    "InternalName": "MahjongXIV",
+    "AssemblyVersion": "0.3.0.0",
+    "Description": "ドマ式麻雀の卓を読み取り、最善の打牌と鳴きを計算して推奨表示します。自動打牌にも対応。日本語UI・日本語クライアント対応版です。\n\nReads Doman Mahjong, computes the best discard and call, shows a suggestion overlay, and can play for you. English and Japanese UI.",
+    "Punchline": "ドマ式麻雀の打牌推奨・自動打牌（日本語対応）",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "mahjong",
+      "doman mahjong",
+      "gold saucer",
+      "solver",
+      "麻雀",
+      "ドマ式麻雀"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "RepoUrl": "https://github.com/MMMMXIV/DalamudPlugins/tree/main/plugins/MahjongXIV",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/plugins/MahjongXIV/MahjongXIV-0.3.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/plugins/MahjongXIV/MahjongXIV-0.3.0.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/plugins/MahjongXIV/MahjongXIV-0.3.0.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1795453776,
+    "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/plugins/MahjongXIV/icon.png",
+    "Changelog": "日本語UIと日本語クライアントの文字列認識に対応。推奨表示を自動打牌と同じ判断（ドラ・見えている牌・ベタオリ・フリテン回避・リーチ）に統一し、有効牌やリーチ者を表示。"
   }
 ]
