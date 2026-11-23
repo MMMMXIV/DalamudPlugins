@@ -24,11 +24,11 @@
     "Changelog": "設定画面を整理し、メテオの進行状況を追加。説明文とプラグイン名を統一しました。"
   },
   {
-    "Author": "kuchris (日本語対応: MMMMXIV)",
-    "Name": "MahjongXIV",
-    "InternalName": "MahjongXIV",
+    "Author": "MMMMXIV (based on MahjongXIV by kuchris)",
+    "Name": "MahjongXIV JP",
+    "InternalName": "MahjongXIVJP",
     "AssemblyVersion": "0.3.0.0",
-    "Description": "ドマ式麻雀の卓を読み取り、最善の打牌と鳴きを計算して推奨表示します。自動打牌にも対応。日本語UI・日本語クライアント対応版です。\n\nReads Doman Mahjong, computes the best discard and call, shows a suggestion overlay, and can play for you. English and Japanese UI.",
+    "Description": "ドマ式麻雀の卓を読み取り、最善の打牌と鳴きを計算して推奨表示します。自動打牌にも対応。kuchris氏のMahjongXIVをもとにした日本語対応版で、元のプラグインとは別プラグインとして共存できます。コマンドは /mjjp です。\n\nJapanese edition of MahjongXIV: reads Doman Mahjong, suggests the best discard and call, and can play for you.",
     "Punchline": "ドマ式麻雀の打牌推奨・自動打牌（日本語対応）",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -43,14 +43,14 @@
     "CategoryTags": [
       "utility"
     ],
-    "RepoUrl": "https://github.com/MMMMXIV/DalamudPlugins/tree/main/plugins/MahjongXIV",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/plugins/MahjongXIV/MahjongXIV-0.3.0.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/plugins/MahjongXIV/MahjongXIV-0.3.0.0.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/plugins/MahjongXIV/MahjongXIV-0.3.0.0.zip",
+    "RepoUrl": "https://github.com/MMMMXIV/MahjongXIVJP",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MMMMXIV/MahjongXIVJP/main/dist/MahjongXIVJP-0.3.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MMMMXIV/MahjongXIVJP/main/dist/MahjongXIVJP-0.3.0.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MMMMXIV/MahjongXIVJP/main/dist/MahjongXIVJP-0.3.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1795453776,
-    "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/plugins/MahjongXIV/icon.png",
-    "Changelog": "日本語UIと日本語クライアントの文字列認識に対応。推奨表示を自動打牌と同じ判断（ドラ・見えている牌・ベタオリ・フリテン回避・リーチ）に統一し、有効牌やリーチ者を表示。"
+    "LastUpdate": 1795454028,
+    "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/MahjongXIVJP/main/MahjongXiv/Images/Icon.png",
+    "Changelog": "MahjongXIVから独立した日本語対応版（内部名 MahjongXIVJP、コマンド /mjjp）。日本語UIと日本語クライアントの文字列認識、自動打牌と同じ判断を使う推奨表示。"
   }
 ]
