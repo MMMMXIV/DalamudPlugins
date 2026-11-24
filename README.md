@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/MMMMXIV/DalamudPlugins/main/repo.json
 | プラグイン | バージョン | ソース・説明 |
 | --- | --- | --- |
 | DSR Meteor Pilot | 0.2.7.0 | [DSRMeteorPilot](https://github.com/MMMMXIV/DSRMeteorPilot) |
-| MahjongXIV JP | 0.5.3.6 | [MahjongXIVJP](https://github.com/MMMMXIV/MahjongXIVJP) |
+| MahjongXIV JP | 0.5.3.7 | [MahjongXIVJP](https://github.com/MMMMXIV/MahjongXIVJP) |
 
 DSR Meteor Pilotの移動にはvnavmeshが別途必要です。MahjongXIV JPはkuchris氏のMahjongXIVとは別プラグイン（コマンド /mjjp）です。旧「MahjongXIV（日本語対応版）」を入れていた場合は、それを削除してからMahjongXIV JPをインストールしてください。詳しい制限とビルド手順は各プラグインのソースリポジトリを参照してください。
 
